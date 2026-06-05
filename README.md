@@ -32,17 +32,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,java,mysql,git,github,vscode" />
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanlama&theme=tokyonight&hide_border=true" />
-
-</p>
-
 ---
 
 # 💻 Developer Quote

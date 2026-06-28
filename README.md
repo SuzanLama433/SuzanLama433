@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sujan Lama</h1>
 
 <h3 align="center">
-🚀 Python with Django  | 💻 Tech Explorer | 🔥 Problem Solver
+🚀 Python with Django | 💻 Tech Explorer | 🔥 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+With;Django+Developer;Full-Stack+Learner;Open-Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Full-Stack+Learner;Open-Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="500"/>
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="500" alt="Coding GIF"/>
 </p>
 
 ---
 
 # 🚀 About Me
+
 - 🔭 Continuously improving my development skills every day
 - 🌱 Currently learning Full-Stack Development with Django
 - 💡 Passionate about building real-world applications
 - ⚡ Enjoy solving problems through code
-- 🎯 Aspiring to become a professional software developer
+- 🎯 Aspiring to become a professional Software Developer
 - 🧠 Developing backend applications using Django
 - 📚 Exploring new technologies and tools daily
 
@@ -28,21 +29,36 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,java,mysql,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,php,java,mysql,git,github,vscode" />
 </p>
+
+---
+
+# 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuzanLama433&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuzanLama433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuzanLama433&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuzanLama433&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ---
 
 # 💻 Developer Quote
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
+
 # ⚡ Fun Fact
 
 ```python
@@ -51,11 +67,16 @@ while True:
     code()
     build()
     repeat()
-````
+```
+
 ---
 
 <p align="center">
 
 ✨ <b>"Code. Learn. Build. Repeat."</b> ✨
 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuzanLama433&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

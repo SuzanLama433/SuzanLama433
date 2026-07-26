@@ -29,7 +29,53 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,php,java,mysql,git,github,vscode" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
 </p>
 
 ---

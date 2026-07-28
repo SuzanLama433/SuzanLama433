@@ -7,7 +7,6 @@
 <p align="center">
 Building scalable backend applications and REST APIs with Python.
 </p>
----
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+Developer;Django+REST+Framework;FastAPI+Learner;Building+REST+APIs;Always+Learning+New+Things" />

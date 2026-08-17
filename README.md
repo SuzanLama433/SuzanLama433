@@ -56,13 +56,6 @@ Building scalable backend applications and REST APIs with Python.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bootstrap" />
 </p>
 ---
-# 💻 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 # ⚡ Fun Code
 
